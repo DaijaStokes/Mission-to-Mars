@@ -6,8 +6,6 @@
 # In[ ]:
 
 
-# by Emmanuel Martinez
-
 
 # In[2]:
 
@@ -144,10 +142,6 @@ df.to_html()
 
 browser.quit()
 
-
-# # Here start the Mission to Mars Challenge Starter Code
-# 
-# # by Emmanuel Martinez
 
 # In[ ]:
 
@@ -365,7 +359,4 @@ hemisphere_image_urls
 browser.quit()
 
 
-# In[ ]:
 
-
-# By Emmanuel Martinez
